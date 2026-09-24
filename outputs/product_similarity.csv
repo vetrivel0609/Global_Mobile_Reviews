@@ -1,0 +1,463 @@
+Product_Name,Recommended_Product,Similarity_Score
+Apple iPhone 13,Samsung Galaxy Note 20,0.9495
+Apple iPhone 13,Apple iPhone 14,0.8177
+Apple iPhone 13,OnePlus OnePlus 12,0.7158
+Apple iPhone 13,Samsung Galaxy Z Flip,0.5103
+Apple iPhone 13,Google Pixel 7a,0.4005
+Apple iPhone 13,Xiaomi Poco X6,0.3877
+Apple iPhone 13,Google Pixel 8,0.3648
+Apple iPhone 13,OnePlus OnePlus Nord 3,0.262
+Apple iPhone 13,Realme Realme 12 Pro,0.1913
+Apple iPhone 13,Apple iPhone SE,0.1682
+Apple iPhone 13,Realme Realme Narzo 70,0.1536
+Apple iPhone 13,Samsung Galaxy A55,-0.4143
+Apple iPhone 13,Motorola Razr 40,-0.4167
+Apple iPhone 13,Xiaomi Redmi Note 13,-0.4434
+Apple iPhone 13,Motorola Moto G Power,-0.5167
+Apple iPhone 13,Apple iPhone 15 Pro,-0.5634
+Apple iPhone 13,Google Pixel 6,-0.6368
+Apple iPhone 13,Samsung Galaxy S24,-0.74
+Apple iPhone 13,OnePlus OnePlus 11R,-0.8172
+Apple iPhone 13,Motorola Edge 50,-0.8754
+Apple iPhone 13,Xiaomi Mi 13 Pro,-0.9174
+Apple iPhone 14,Apple iPhone 13,0.8177
+Apple iPhone 14,Samsung Galaxy Note 20,0.7849
+Apple iPhone 14,Google Pixel 7a,0.7321
+Apple iPhone 14,OnePlus OnePlus 12,0.6706
+Apple iPhone 14,Google Pixel 8,0.5652
+Apple iPhone 14,Samsung Galaxy Z Flip,0.5571
+Apple iPhone 14,OnePlus OnePlus Nord 3,0.2957
+Apple iPhone 14,Xiaomi Poco X6,0.2742
+Apple iPhone 14,Realme Realme 12 Pro,0.2536
+Apple iPhone 14,Apple iPhone SE,0.0451
+Apple iPhone 14,Realme Realme Narzo 70,0.031
+Apple iPhone 14,Apple iPhone 15 Pro,-0.4358
+Apple iPhone 14,Google Pixel 6,-0.4648
+Apple iPhone 14,Motorola Moto G Power,-0.4896
+Apple iPhone 14,Motorola Razr 40,-0.5392
+Apple iPhone 14,Samsung Galaxy A55,-0.6342
+Apple iPhone 14,Xiaomi Redmi Note 13,-0.6429
+Apple iPhone 14,OnePlus OnePlus 11R,-0.703
+Apple iPhone 14,Samsung Galaxy S24,-0.7275
+Apple iPhone 14,Motorola Edge 50,-0.7542
+Apple iPhone 14,Xiaomi Mi 13 Pro,-0.8106
+Apple iPhone 15 Pro,Google Pixel 6,0.8819
+Apple iPhone 15 Pro,Samsung Galaxy S24,0.8795
+Apple iPhone 15 Pro,Samsung Galaxy A55,0.6624
+Apple iPhone 15 Pro,Motorola Edge 50,0.6119
+Apple iPhone 15 Pro,OnePlus OnePlus 11R,0.565
+Apple iPhone 15 Pro,Xiaomi Mi 13 Pro,0.5534
+Apple iPhone 15 Pro,Apple iPhone SE,0.1842
+Apple iPhone 15 Pro,Xiaomi Redmi Note 13,0.097
+Apple iPhone 15 Pro,Motorola Moto G Power,-0.248
+Apple iPhone 15 Pro,Motorola Razr 40,-0.2996
+Apple iPhone 15 Pro,Samsung Galaxy Z Flip,-0.3371
+Apple iPhone 15 Pro,Google Pixel 8,-0.3442
+Apple iPhone 15 Pro,Google Pixel 7a,-0.3627
+Apple iPhone 15 Pro,Apple iPhone 14,-0.4358
+Apple iPhone 15 Pro,OnePlus OnePlus Nord 3,-0.4691
+Apple iPhone 15 Pro,OnePlus OnePlus 12,-0.5604
+Apple iPhone 15 Pro,Apple iPhone 13,-0.5634
+Apple iPhone 15 Pro,Xiaomi Poco X6,-0.7036
+Apple iPhone 15 Pro,Samsung Galaxy Note 20,-0.7103
+Apple iPhone 15 Pro,Realme Realme Narzo 70,-0.8274
+Apple iPhone 15 Pro,Realme Realme 12 Pro,-0.8383
+Apple iPhone SE,Samsung Galaxy Z Flip,0.5552
+Apple iPhone SE,OnePlus OnePlus Nord 3,0.2699
+Apple iPhone SE,Google Pixel 7a,0.2514
+Apple iPhone SE,Apple iPhone 15 Pro,0.1842
+Apple iPhone SE,Apple iPhone 13,0.1682
+Apple iPhone SE,Samsung Galaxy Note 20,0.1573
+Apple iPhone SE,Google Pixel 8,0.0581
+Apple iPhone SE,Google Pixel 6,0.0472
+Apple iPhone SE,Apple iPhone 14,0.0451
+Apple iPhone SE,Samsung Galaxy A55,0.0432
+Apple iPhone SE,Samsung Galaxy S24,0.0299
+Apple iPhone SE,Motorola Razr 40,-0.1525
+Apple iPhone SE,Realme Realme 12 Pro,-0.2101
+Apple iPhone SE,Xiaomi Mi 13 Pro,-0.2118
+Apple iPhone SE,OnePlus OnePlus 11R,-0.2363
+Apple iPhone SE,Motorola Edge 50,-0.2635
+Apple iPhone SE,Realme Realme Narzo 70,-0.2936
+Apple iPhone SE,OnePlus OnePlus 12,-0.2974
+Apple iPhone SE,Xiaomi Poco X6,-0.4778
+Apple iPhone SE,Motorola Moto G Power,-0.6356
+Apple iPhone SE,Xiaomi Redmi Note 13,-0.6631
+Google Pixel 6,Apple iPhone 15 Pro,0.8819
+Google Pixel 6,Samsung Galaxy S24,0.8813
+Google Pixel 6,Samsung Galaxy A55,0.7473
+Google Pixel 6,Xiaomi Mi 13 Pro,0.6763
+Google Pixel 6,OnePlus OnePlus 11R,0.5755
+Google Pixel 6,Motorola Edge 50,0.4993
+Google Pixel 6,Xiaomi Redmi Note 13,0.1719
+Google Pixel 6,Apple iPhone SE,0.0472
+Google Pixel 6,Motorola Moto G Power,0.0358
+Google Pixel 6,Google Pixel 8,-0.1328
+Google Pixel 6,Motorola Razr 40,-0.1746
+Google Pixel 6,OnePlus OnePlus Nord 3,-0.4584
+Google Pixel 6,Apple iPhone 14,-0.4648
+Google Pixel 6,Google Pixel 7a,-0.4922
+Google Pixel 6,Samsung Galaxy Z Flip,-0.501
+Google Pixel 6,OnePlus OnePlus 12,-0.5727
+Google Pixel 6,Apple iPhone 13,-0.6368
+Google Pixel 6,Realme Realme Narzo 70,-0.7292
+Google Pixel 6,Samsung Galaxy Note 20,-0.7396
+Google Pixel 6,Realme Realme 12 Pro,-0.7454
+Google Pixel 6,Xiaomi Poco X6,-0.8154
+Google Pixel 7a,Apple iPhone 14,0.7321
+Google Pixel 7a,Samsung Galaxy Z Flip,0.6965
+Google Pixel 7a,Realme Realme 12 Pro,0.4993
+Google Pixel 7a,Samsung Galaxy Note 20,0.4827
+Google Pixel 7a,Google Pixel 8,0.4341
+Google Pixel 7a,OnePlus OnePlus Nord 3,0.4265
+Google Pixel 7a,Apple iPhone 13,0.4005
+Google Pixel 7a,Xiaomi Poco X6,0.2727
+Google Pixel 7a,OnePlus OnePlus 12,0.2541
+Google Pixel 7a,Apple iPhone SE,0.2514
+Google Pixel 7a,Realme Realme Narzo 70,0.1219
+Google Pixel 7a,Motorola Razr 40,-0.1912
+Google Pixel 7a,Motorola Edge 50,-0.3574
+Google Pixel 7a,Apple iPhone 15 Pro,-0.3627
+Google Pixel 7a,Motorola Moto G Power,-0.3721
+Google Pixel 7a,OnePlus OnePlus 11R,-0.409
+Google Pixel 7a,Google Pixel 6,-0.4922
+Google Pixel 7a,Xiaomi Mi 13 Pro,-0.5801
+Google Pixel 7a,Samsung Galaxy S24,-0.6355
+Google Pixel 7a,Xiaomi Redmi Note 13,-0.7902
+Google Pixel 7a,Samsung Galaxy A55,-0.8591
+Google Pixel 8,Apple iPhone 14,0.5652
+Google Pixel 8,Google Pixel 7a,0.4341
+Google Pixel 8,Apple iPhone 13,0.3648
+Google Pixel 8,Samsung Galaxy Note 20,0.3616
+Google Pixel 8,OnePlus OnePlus 12,0.1719
+Google Pixel 8,Realme Realme 12 Pro,0.1495
+Google Pixel 8,Xiaomi Poco X6,0.0918
+Google Pixel 8,Apple iPhone SE,0.0581
+Google Pixel 8,Motorola Razr 40,0.0379
+Google Pixel 8,Realme Realme Narzo 70,0.0146
+Google Pixel 8,Samsung Galaxy Z Flip,-0.0001
+Google Pixel 8,OnePlus OnePlus Nord 3,-0.1166
+Google Pixel 8,Google Pixel 6,-0.1328
+Google Pixel 8,Motorola Moto G Power,-0.1361
+Google Pixel 8,Samsung Galaxy A55,-0.1891
+Google Pixel 8,Samsung Galaxy S24,-0.3108
+Google Pixel 8,Apple iPhone 15 Pro,-0.3442
+Google Pixel 8,Xiaomi Mi 13 Pro,-0.3773
+Google Pixel 8,Xiaomi Redmi Note 13,-0.512
+Google Pixel 8,Motorola Edge 50,-0.5584
+Google Pixel 8,OnePlus OnePlus 11R,-0.6246
+Motorola Edge 50,OnePlus OnePlus 11R,0.8765
+Motorola Edge 50,Samsung Galaxy S24,0.7347
+Motorola Edge 50,Xiaomi Mi 13 Pro,0.7158
+Motorola Edge 50,Apple iPhone 15 Pro,0.6119
+Motorola Edge 50,Google Pixel 6,0.4993
+Motorola Edge 50,Xiaomi Redmi Note 13,0.4697
+Motorola Edge 50,Motorola Moto G Power,0.4111
+Motorola Edge 50,Motorola Razr 40,0.3704
+Motorola Edge 50,Samsung Galaxy A55,0.3517
+Motorola Edge 50,Xiaomi Poco X6,-0.1178
+Motorola Edge 50,Realme Realme 12 Pro,-0.2208
+Motorola Edge 50,Apple iPhone SE,-0.2635
+Motorola Edge 50,Realme Realme Narzo 70,-0.2701
+Motorola Edge 50,Google Pixel 7a,-0.3574
+Motorola Edge 50,OnePlus OnePlus Nord 3,-0.4466
+Motorola Edge 50,Samsung Galaxy Z Flip,-0.5368
+Motorola Edge 50,Google Pixel 8,-0.5584
+Motorola Edge 50,OnePlus OnePlus 12,-0.6783
+Motorola Edge 50,Apple iPhone 14,-0.7542
+Motorola Edge 50,Samsung Galaxy Note 20,-0.8407
+Motorola Edge 50,Apple iPhone 13,-0.8754
+Motorola Moto G Power,Motorola Razr 40,0.7196
+Motorola Moto G Power,Xiaomi Redmi Note 13,0.5682
+Motorola Moto G Power,OnePlus OnePlus 11R,0.5462
+Motorola Moto G Power,Realme Realme 12 Pro,0.4737
+Motorola Moto G Power,Xiaomi Mi 13 Pro,0.4363
+Motorola Moto G Power,Motorola Edge 50,0.4111
+Motorola Moto G Power,Realme Realme Narzo 70,0.4043
+Motorola Moto G Power,Xiaomi Poco X6,0.2606
+Motorola Moto G Power,Samsung Galaxy S24,0.1276
+Motorola Moto G Power,Samsung Galaxy A55,0.0464
+Motorola Moto G Power,Google Pixel 6,0.0358
+Motorola Moto G Power,Google Pixel 8,-0.1361
+Motorola Moto G Power,OnePlus OnePlus Nord 3,-0.148
+Motorola Moto G Power,Apple iPhone 15 Pro,-0.248
+Motorola Moto G Power,OnePlus OnePlus 12,-0.272
+Motorola Moto G Power,Samsung Galaxy Note 20,-0.3165
+Motorola Moto G Power,Google Pixel 7a,-0.3721
+Motorola Moto G Power,Apple iPhone 14,-0.4896
+Motorola Moto G Power,Apple iPhone 13,-0.5167
+Motorola Moto G Power,Samsung Galaxy Z Flip,-0.563
+Motorola Moto G Power,Apple iPhone SE,-0.6356
+Motorola Razr 40,Motorola Moto G Power,0.7196
+Motorola Razr 40,Realme Realme 12 Pro,0.4831
+Motorola Razr 40,Xiaomi Poco X6,0.383
+Motorola Razr 40,Motorola Edge 50,0.3704
+Motorola Razr 40,Realme Realme Narzo 70,0.3594
+Motorola Razr 40,OnePlus OnePlus 11R,0.3212
+Motorola Razr 40,Xiaomi Redmi Note 13,0.2421
+Motorola Razr 40,Xiaomi Mi 13 Pro,0.2164
+Motorola Razr 40,Samsung Galaxy S24,0.1298
+Motorola Razr 40,Samsung Galaxy A55,0.0426
+Motorola Razr 40,Google Pixel 8,0.0379
+Motorola Razr 40,Apple iPhone SE,-0.1525
+Motorola Razr 40,Google Pixel 6,-0.1746
+Motorola Razr 40,Google Pixel 7a,-0.1912
+Motorola Razr 40,Samsung Galaxy Note 20,-0.198
+Motorola Razr 40,OnePlus OnePlus Nord 3,-0.2709
+Motorola Razr 40,Apple iPhone 15 Pro,-0.2996
+Motorola Razr 40,Apple iPhone 13,-0.4167
+Motorola Razr 40,Samsung Galaxy Z Flip,-0.4486
+Motorola Razr 40,OnePlus OnePlus 12,-0.5378
+Motorola Razr 40,Apple iPhone 14,-0.5392
+OnePlus OnePlus 11R,Motorola Edge 50,0.8765
+OnePlus OnePlus 11R,Samsung Galaxy S24,0.6868
+OnePlus OnePlus 11R,Xiaomi Mi 13 Pro,0.654
+OnePlus OnePlus 11R,Google Pixel 6,0.5755
+OnePlus OnePlus 11R,Apple iPhone 15 Pro,0.565
+OnePlus OnePlus 11R,Motorola Moto G Power,0.5462
+OnePlus OnePlus 11R,Xiaomi Redmi Note 13,0.399
+OnePlus OnePlus 11R,Samsung Galaxy A55,0.3363
+OnePlus OnePlus 11R,Motorola Razr 40,0.3212
+OnePlus OnePlus 11R,Realme Realme 12 Pro,-0.1256
+OnePlus OnePlus 11R,Apple iPhone SE,-0.2363
+OnePlus OnePlus 11R,Xiaomi Poco X6,-0.2681
+OnePlus OnePlus 11R,OnePlus OnePlus Nord 3,-0.3176
+OnePlus OnePlus 11R,Realme Realme Narzo 70,-0.3189
+OnePlus OnePlus 11R,Google Pixel 7a,-0.409
+OnePlus OnePlus 11R,Samsung Galaxy Z Flip,-0.4678
+OnePlus OnePlus 11R,Google Pixel 8,-0.6246
+OnePlus OnePlus 11R,OnePlus OnePlus 12,-0.6992
+OnePlus OnePlus 11R,Apple iPhone 14,-0.703
+OnePlus OnePlus 11R,Samsung Galaxy Note 20,-0.7123
+OnePlus OnePlus 11R,Apple iPhone 13,-0.8172
+OnePlus OnePlus 12,Apple iPhone 13,0.7158
+OnePlus OnePlus 12,Apple iPhone 14,0.6706
+OnePlus OnePlus 12,Samsung Galaxy Note 20,0.6048
+OnePlus OnePlus 12,Realme Realme Narzo 70,0.4865
+OnePlus OnePlus 12,OnePlus OnePlus Nord 3,0.4803
+OnePlus OnePlus 12,Samsung Galaxy Z Flip,0.4244
+OnePlus OnePlus 12,Xiaomi Poco X6,0.3883
+OnePlus OnePlus 12,Google Pixel 7a,0.2541
+OnePlus OnePlus 12,Realme Realme 12 Pro,0.2151
+OnePlus OnePlus 12,Google Pixel 8,0.1719
+OnePlus OnePlus 12,Xiaomi Redmi Note 13,0.0438
+OnePlus OnePlus 12,Motorola Moto G Power,-0.272
+OnePlus OnePlus 12,Apple iPhone SE,-0.2974
+OnePlus OnePlus 12,Samsung Galaxy A55,-0.4574
+OnePlus OnePlus 12,Xiaomi Mi 13 Pro,-0.4767
+OnePlus OnePlus 12,Motorola Razr 40,-0.5378
+OnePlus OnePlus 12,Apple iPhone 15 Pro,-0.5604
+OnePlus OnePlus 12,Google Pixel 6,-0.5727
+OnePlus OnePlus 12,Motorola Edge 50,-0.6783
+OnePlus OnePlus 12,OnePlus OnePlus 11R,-0.6992
+OnePlus OnePlus 12,Samsung Galaxy S24,-0.7521
+OnePlus OnePlus Nord 3,Samsung Galaxy Z Flip,0.8407
+OnePlus OnePlus Nord 3,Realme Realme Narzo 70,0.5915
+OnePlus OnePlus Nord 3,Realme Realme 12 Pro,0.4806
+OnePlus OnePlus Nord 3,OnePlus OnePlus 12,0.4803
+OnePlus OnePlus Nord 3,Google Pixel 7a,0.4265
+OnePlus OnePlus Nord 3,Samsung Galaxy Note 20,0.3226
+OnePlus OnePlus Nord 3,Apple iPhone 14,0.2957
+OnePlus OnePlus Nord 3,Apple iPhone SE,0.2699
+OnePlus OnePlus Nord 3,Apple iPhone 13,0.262
+OnePlus OnePlus Nord 3,Xiaomi Poco X6,-0.0453
+OnePlus OnePlus Nord 3,Google Pixel 8,-0.1166
+OnePlus OnePlus Nord 3,Motorola Moto G Power,-0.148
+OnePlus OnePlus Nord 3,Xiaomi Mi 13 Pro,-0.1486
+OnePlus OnePlus Nord 3,Xiaomi Redmi Note 13,-0.2278
+OnePlus OnePlus Nord 3,Motorola Razr 40,-0.2709
+OnePlus OnePlus Nord 3,OnePlus OnePlus 11R,-0.3176
+OnePlus OnePlus Nord 3,Motorola Edge 50,-0.4466
+OnePlus OnePlus Nord 3,Google Pixel 6,-0.4584
+OnePlus OnePlus Nord 3,Apple iPhone 15 Pro,-0.4691
+OnePlus OnePlus Nord 3,Samsung Galaxy A55,-0.6239
+OnePlus OnePlus Nord 3,Samsung Galaxy S24,-0.6662
+Realme Realme 12 Pro,Realme Realme Narzo 70,0.7462
+Realme Realme 12 Pro,Xiaomi Poco X6,0.6465
+Realme Realme 12 Pro,Google Pixel 7a,0.4993
+Realme Realme 12 Pro,Motorola Razr 40,0.4831
+Realme Realme 12 Pro,OnePlus OnePlus Nord 3,0.4806
+Realme Realme 12 Pro,Motorola Moto G Power,0.4737
+Realme Realme 12 Pro,Samsung Galaxy Note 20,0.4467
+Realme Realme 12 Pro,Samsung Galaxy Z Flip,0.331
+Realme Realme 12 Pro,Apple iPhone 14,0.2536
+Realme Realme 12 Pro,OnePlus OnePlus 12,0.2151
+Realme Realme 12 Pro,Apple iPhone 13,0.1913
+Realme Realme 12 Pro,Google Pixel 8,0.1495
+Realme Realme 12 Pro,OnePlus OnePlus 11R,-0.1256
+Realme Realme 12 Pro,Xiaomi Redmi Note 13,-0.1514
+Realme Realme 12 Pro,Apple iPhone SE,-0.2101
+Realme Realme 12 Pro,Motorola Edge 50,-0.2208
+Realme Realme 12 Pro,Xiaomi Mi 13 Pro,-0.3475
+Realme Realme 12 Pro,Samsung Galaxy S24,-0.723
+Realme Realme 12 Pro,Google Pixel 6,-0.7454
+Realme Realme 12 Pro,Samsung Galaxy A55,-0.8007
+Realme Realme 12 Pro,Apple iPhone 15 Pro,-0.8383
+Realme Realme Narzo 70,Realme Realme 12 Pro,0.7462
+Realme Realme Narzo 70,OnePlus OnePlus Nord 3,0.5915
+Realme Realme Narzo 70,Xiaomi Poco X6,0.5646
+Realme Realme Narzo 70,OnePlus OnePlus 12,0.4865
+Realme Realme Narzo 70,Motorola Moto G Power,0.4043
+Realme Realme Narzo 70,Motorola Razr 40,0.3594
+Realme Realme Narzo 70,Xiaomi Redmi Note 13,0.2918
+Realme Realme Narzo 70,Samsung Galaxy Note 20,0.2658
+Realme Realme Narzo 70,Samsung Galaxy Z Flip,0.252
+Realme Realme Narzo 70,Apple iPhone 13,0.1536
+Realme Realme Narzo 70,Google Pixel 7a,0.1219
+Realme Realme Narzo 70,Apple iPhone 14,0.031
+Realme Realme Narzo 70,Google Pixel 8,0.0146
+Realme Realme Narzo 70,Xiaomi Mi 13 Pro,-0.0612
+Realme Realme Narzo 70,Motorola Edge 50,-0.2701
+Realme Realme Narzo 70,Apple iPhone SE,-0.2936
+Realme Realme Narzo 70,OnePlus OnePlus 11R,-0.3189
+Realme Realme Narzo 70,Samsung Galaxy A55,-0.5218
+Realme Realme Narzo 70,Samsung Galaxy S24,-0.6709
+Realme Realme Narzo 70,Google Pixel 6,-0.7292
+Realme Realme Narzo 70,Apple iPhone 15 Pro,-0.8274
+Samsung Galaxy A55,Samsung Galaxy S24,0.8435
+Samsung Galaxy A55,Google Pixel 6,0.7473
+Samsung Galaxy A55,Apple iPhone 15 Pro,0.6624
+Samsung Galaxy A55,Xiaomi Mi 13 Pro,0.5485
+Samsung Galaxy A55,Xiaomi Redmi Note 13,0.4614
+Samsung Galaxy A55,Motorola Edge 50,0.3517
+Samsung Galaxy A55,OnePlus OnePlus 11R,0.3363
+Samsung Galaxy A55,Motorola Moto G Power,0.0464
+Samsung Galaxy A55,Apple iPhone SE,0.0432
+Samsung Galaxy A55,Motorola Razr 40,0.0426
+Samsung Galaxy A55,Google Pixel 8,-0.1891
+Samsung Galaxy A55,Apple iPhone 13,-0.4143
+Samsung Galaxy A55,OnePlus OnePlus 12,-0.4574
+Samsung Galaxy A55,Realme Realme Narzo 70,-0.5218
+Samsung Galaxy A55,Xiaomi Poco X6,-0.5411
+Samsung Galaxy A55,Samsung Galaxy Note 20,-0.5591
+Samsung Galaxy A55,OnePlus OnePlus Nord 3,-0.6239
+Samsung Galaxy A55,Apple iPhone 14,-0.6342
+Samsung Galaxy A55,Samsung Galaxy Z Flip,-0.6892
+Samsung Galaxy A55,Realme Realme 12 Pro,-0.8007
+Samsung Galaxy A55,Google Pixel 7a,-0.8591
+Samsung Galaxy Note 20,Apple iPhone 13,0.9495
+Samsung Galaxy Note 20,Apple iPhone 14,0.7849
+Samsung Galaxy Note 20,OnePlus OnePlus 12,0.6048
+Samsung Galaxy Note 20,Samsung Galaxy Z Flip,0.5338
+Samsung Galaxy Note 20,Xiaomi Poco X6,0.4896
+Samsung Galaxy Note 20,Google Pixel 7a,0.4827
+Samsung Galaxy Note 20,Realme Realme 12 Pro,0.4467
+Samsung Galaxy Note 20,Google Pixel 8,0.3616
+Samsung Galaxy Note 20,OnePlus OnePlus Nord 3,0.3226
+Samsung Galaxy Note 20,Realme Realme Narzo 70,0.2658
+Samsung Galaxy Note 20,Apple iPhone SE,0.1573
+Samsung Galaxy Note 20,Motorola Razr 40,-0.198
+Samsung Galaxy Note 20,Motorola Moto G Power,-0.3165
+Samsung Galaxy Note 20,Xiaomi Redmi Note 13,-0.4999
+Samsung Galaxy Note 20,Samsung Galaxy A55,-0.5591
+Samsung Galaxy Note 20,Apple iPhone 15 Pro,-0.7103
+Samsung Galaxy Note 20,OnePlus OnePlus 11R,-0.7123
+Samsung Galaxy Note 20,Google Pixel 6,-0.7396
+Samsung Galaxy Note 20,Samsung Galaxy S24,-0.8209
+Samsung Galaxy Note 20,Motorola Edge 50,-0.8407
+Samsung Galaxy Note 20,Xiaomi Mi 13 Pro,-0.9534
+Samsung Galaxy S24,Google Pixel 6,0.8813
+Samsung Galaxy S24,Apple iPhone 15 Pro,0.8795
+Samsung Galaxy S24,Samsung Galaxy A55,0.8435
+Samsung Galaxy S24,Motorola Edge 50,0.7347
+Samsung Galaxy S24,Xiaomi Mi 13 Pro,0.7094
+Samsung Galaxy S24,OnePlus OnePlus 11R,0.6868
+Samsung Galaxy S24,Xiaomi Redmi Note 13,0.3463
+Samsung Galaxy S24,Motorola Razr 40,0.1298
+Samsung Galaxy S24,Motorola Moto G Power,0.1276
+Samsung Galaxy S24,Apple iPhone SE,0.0299
+Samsung Galaxy S24,Google Pixel 8,-0.3108
+Samsung Galaxy S24,Xiaomi Poco X6,-0.5774
+Samsung Galaxy S24,Google Pixel 7a,-0.6355
+Samsung Galaxy S24,OnePlus OnePlus Nord 3,-0.6662
+Samsung Galaxy S24,Realme Realme Narzo 70,-0.6709
+Samsung Galaxy S24,Samsung Galaxy Z Flip,-0.675
+Samsung Galaxy S24,Realme Realme 12 Pro,-0.723
+Samsung Galaxy S24,Apple iPhone 14,-0.7275
+Samsung Galaxy S24,Apple iPhone 13,-0.74
+Samsung Galaxy S24,OnePlus OnePlus 12,-0.7521
+Samsung Galaxy S24,Samsung Galaxy Note 20,-0.8209
+Samsung Galaxy Z Flip,OnePlus OnePlus Nord 3,0.8407
+Samsung Galaxy Z Flip,Google Pixel 7a,0.6965
+Samsung Galaxy Z Flip,Apple iPhone 14,0.5571
+Samsung Galaxy Z Flip,Apple iPhone SE,0.5552
+Samsung Galaxy Z Flip,Samsung Galaxy Note 20,0.5338
+Samsung Galaxy Z Flip,Apple iPhone 13,0.5103
+Samsung Galaxy Z Flip,OnePlus OnePlus 12,0.4244
+Samsung Galaxy Z Flip,Realme Realme 12 Pro,0.331
+Samsung Galaxy Z Flip,Realme Realme Narzo 70,0.252
+Samsung Galaxy Z Flip,Google Pixel 8,-0.0001
+Samsung Galaxy Z Flip,Xiaomi Poco X6,-0.0189
+Samsung Galaxy Z Flip,Apple iPhone 15 Pro,-0.3371
+Samsung Galaxy Z Flip,Motorola Razr 40,-0.4486
+Samsung Galaxy Z Flip,OnePlus OnePlus 11R,-0.4678
+Samsung Galaxy Z Flip,Xiaomi Mi 13 Pro,-0.4976
+Samsung Galaxy Z Flip,Google Pixel 6,-0.501
+Samsung Galaxy Z Flip,Motorola Edge 50,-0.5368
+Samsung Galaxy Z Flip,Motorola Moto G Power,-0.563
+Samsung Galaxy Z Flip,Xiaomi Redmi Note 13,-0.6236
+Samsung Galaxy Z Flip,Samsung Galaxy S24,-0.675
+Samsung Galaxy Z Flip,Samsung Galaxy A55,-0.6892
+Xiaomi Mi 13 Pro,Motorola Edge 50,0.7158
+Xiaomi Mi 13 Pro,Samsung Galaxy S24,0.7094
+Xiaomi Mi 13 Pro,Google Pixel 6,0.6763
+Xiaomi Mi 13 Pro,OnePlus OnePlus 11R,0.654
+Xiaomi Mi 13 Pro,Xiaomi Redmi Note 13,0.6167
+Xiaomi Mi 13 Pro,Apple iPhone 15 Pro,0.5534
+Xiaomi Mi 13 Pro,Samsung Galaxy A55,0.5485
+Xiaomi Mi 13 Pro,Motorola Moto G Power,0.4363
+Xiaomi Mi 13 Pro,Motorola Razr 40,0.2164
+Xiaomi Mi 13 Pro,Realme Realme Narzo 70,-0.0612
+Xiaomi Mi 13 Pro,OnePlus OnePlus Nord 3,-0.1486
+Xiaomi Mi 13 Pro,Apple iPhone SE,-0.2118
+Xiaomi Mi 13 Pro,Realme Realme 12 Pro,-0.3475
+Xiaomi Mi 13 Pro,Google Pixel 8,-0.3773
+Xiaomi Mi 13 Pro,OnePlus OnePlus 12,-0.4767
+Xiaomi Mi 13 Pro,Samsung Galaxy Z Flip,-0.4976
+Xiaomi Mi 13 Pro,Xiaomi Poco X6,-0.5036
+Xiaomi Mi 13 Pro,Google Pixel 7a,-0.5801
+Xiaomi Mi 13 Pro,Apple iPhone 14,-0.8106
+Xiaomi Mi 13 Pro,Apple iPhone 13,-0.9174
+Xiaomi Mi 13 Pro,Samsung Galaxy Note 20,-0.9534
+Xiaomi Poco X6,Realme Realme 12 Pro,0.6465
+Xiaomi Poco X6,Realme Realme Narzo 70,0.5646
+Xiaomi Poco X6,Samsung Galaxy Note 20,0.4896
+Xiaomi Poco X6,OnePlus OnePlus 12,0.3883
+Xiaomi Poco X6,Apple iPhone 13,0.3877
+Xiaomi Poco X6,Motorola Razr 40,0.383
+Xiaomi Poco X6,Apple iPhone 14,0.2742
+Xiaomi Poco X6,Google Pixel 7a,0.2727
+Xiaomi Poco X6,Motorola Moto G Power,0.2606
+Xiaomi Poco X6,Xiaomi Redmi Note 13,0.13
+Xiaomi Poco X6,Google Pixel 8,0.0918
+Xiaomi Poco X6,Samsung Galaxy Z Flip,-0.0189
+Xiaomi Poco X6,OnePlus OnePlus Nord 3,-0.0453
+Xiaomi Poco X6,Motorola Edge 50,-0.1178
+Xiaomi Poco X6,OnePlus OnePlus 11R,-0.2681
+Xiaomi Poco X6,Apple iPhone SE,-0.4778
+Xiaomi Poco X6,Xiaomi Mi 13 Pro,-0.5036
+Xiaomi Poco X6,Samsung Galaxy A55,-0.5411
+Xiaomi Poco X6,Samsung Galaxy S24,-0.5774
+Xiaomi Poco X6,Apple iPhone 15 Pro,-0.7036
+Xiaomi Poco X6,Google Pixel 6,-0.8154
+Xiaomi Redmi Note 13,Xiaomi Mi 13 Pro,0.6167
+Xiaomi Redmi Note 13,Motorola Moto G Power,0.5682
+Xiaomi Redmi Note 13,Motorola Edge 50,0.4697
+Xiaomi Redmi Note 13,Samsung Galaxy A55,0.4614
+Xiaomi Redmi Note 13,OnePlus OnePlus 11R,0.399
+Xiaomi Redmi Note 13,Samsung Galaxy S24,0.3463
+Xiaomi Redmi Note 13,Realme Realme Narzo 70,0.2918
+Xiaomi Redmi Note 13,Motorola Razr 40,0.2421
+Xiaomi Redmi Note 13,Google Pixel 6,0.1719
+Xiaomi Redmi Note 13,Xiaomi Poco X6,0.13
+Xiaomi Redmi Note 13,Apple iPhone 15 Pro,0.097
+Xiaomi Redmi Note 13,OnePlus OnePlus 12,0.0438
+Xiaomi Redmi Note 13,Realme Realme 12 Pro,-0.1514
+Xiaomi Redmi Note 13,OnePlus OnePlus Nord 3,-0.2278
+Xiaomi Redmi Note 13,Apple iPhone 13,-0.4434
+Xiaomi Redmi Note 13,Samsung Galaxy Note 20,-0.4999
+Xiaomi Redmi Note 13,Google Pixel 8,-0.512
+Xiaomi Redmi Note 13,Samsung Galaxy Z Flip,-0.6236
+Xiaomi Redmi Note 13,Apple iPhone 14,-0.6429
+Xiaomi Redmi Note 13,Apple iPhone SE,-0.6631
+Xiaomi Redmi Note 13,Google Pixel 7a,-0.7902

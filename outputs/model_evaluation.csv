@@ -1,0 +1,15 @@
+Metric,Value
+Number_of_Clusters,2
+Clustering_Features,"battery_life_rating, camera_rating, performance_rating, design_rating, display_rating"
+Silhouette_Score,0.4032
+Davies_Bouldin_Index,0.9689
+Calinski_Harabasz_Index,48650.9
+Inertia,124761.48
+Best_K_by_Silhouette,2
+Best_Silhouette_Score,0.4032
+Total_Similarity_Comparisons,462
+Average_Similarity_Score,-0.0391
+Median_Similarity_Score,-0.0189
+Minimum_Similarity_Score,-0.9534
+Maximum_Similarity_Score,0.9495
+Average_Top5_Similarity,0.6
